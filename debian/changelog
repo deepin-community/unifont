@@ -1,3 +1,9 @@
+unifont (1:14.0.01-2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 21:05:09 +0800
+
 unifont (1:14.0.01-1) unstable; urgency=medium
 
   * New upstream release 14.0.01
